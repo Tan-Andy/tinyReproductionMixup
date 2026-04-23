@@ -18,6 +18,8 @@ The ```mixupProject.ipynb``` is the main notebook utilized for running the tinyr
 
 NOTE: ```Assignment_03_Excercise.ipynb``` and ```.csv``` files are included for reference and are not necessary for running the training or testing of this tinyReproduction.
 
+NOTE: A specified ```torch``` seed is utilized in the ```packages``` cell block; however, there may be small deviations from the provided results due to other packages.
+
 ## Dependencies
 
 The written code requires these Python3 packages to run:
